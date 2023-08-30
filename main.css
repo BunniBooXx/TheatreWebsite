@@ -1,0 +1,181 @@
+body,html{
+    height:100px;
+    margin:0px;
+    
+}
+
+nav li {
+    display:inline;
+    margin:20px;
+    font-size:20px;
+    
+}
+
+nav ul { 
+    padding:0px;
+    background-color: black;
+    margin:0;
+    
+}
+
+nav {
+    color: white;
+    display: block;
+}
+
+
+.header-text{
+    text-align:center;
+    color:white;
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    font-size: xx-large
+    
+
+}
+
+
+
+
+.header-image{
+    position:relative;
+    width:400px;
+}
+
+#title{
+    font-size: 30px;
+}
+
+.tickets {
+    margin :50px;
+    padding:20px;
+    height:100px;
+
+}
+
+.socials 
+{
+    justify-content: right;
+}
+
+
+footer{
+    align-items: flex-end;
+    background-color: black;
+
+    
+
+}
+.Ticket1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    
+
+}
+.Ticket1 li { 
+    list-style-type: none;
+}
+
+.Ticket2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Ticket2 li {
+    list-style-type: none;
+}
+
+.Ticket3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+ 
+.Ticket3 li {
+    list-style-type: none;
+}
+.Ticket1-image{
+    max-width:100%;
+}
+
+.Ticket4 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Ticket4 li {
+    list-style-type: none; 
+}
+
+.date {
+    text-align:left;
+    border: 1px solid black;
+    background-color: lightgrey;
+    width:500px;
+    height:30px;
+    position: relative;
+}
+ .info li {
+    list-style-type: none; 
+    color: white;
+ }
+.shows li {
+    list-style-type: none; 
+    color:white;
+}
+.socials li {
+    list-style-type:none;
+    color:white;  
+    
+}
+
+#title {
+    font-size: 30px ; 
+    font-weight:bold;
+    padding:5px;
+}
+
+#small {
+    font-size:25px;
+    font-weight: bold;
+    padding:5px;
+}
+
+hr {
+    width:1000px;
+    
+}
+
+#text {
+    font-size: 15px;
+    padding:5px;
+}
+
+#button {
+    background-color: orange;
+    color:white;
+    border: 1px solid #ff8c00;
+    width:100px;
+    height:40px;
+    padding:10px;
+    
+    
+}
+
+.header {
+    position: relative; 
+    text-align: center;
+    color:white; 
+}
+
+#link {
+    font-size:x-large;
+    justify-content: space-evenly; 
+}
